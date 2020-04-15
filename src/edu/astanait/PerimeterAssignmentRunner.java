@@ -129,6 +129,7 @@ public class PerimeterAssignmentRunner {
     }
 
     public static void main (String[] args) {
+System.out.println("My changes");
         PerimeterAssignmentRunner pr = new PerimeterAssignmentRunner();
         pr.testPerimeter();
         pr.testPerimeterMultipleFiles();
